@@ -4214,15 +4214,15 @@
         "diagramID": "676d97ea0be46fa622c346cb"
       },
       "variables": {
-        "openai_api_key": "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",
-        "thread_id": "thread_ps31kSa8TxBRQWooEayh0DYe",
+        "openai_api_key": "your-api-key-here",
+        "thread_id": "thread-id-here",
         "file_id": "file-J3sKt4Vr4hcWwe81Y1dGv3",
         "file_type": "image",
-        "last_utterance": "Analyze and explain this",
-        "assistant_id": "asst_OrxAu4CI2hLZAlzsGDxthmqo"
+        "last_utterance": "user-query-here",
+        "assistant_id": "assistant-id-here"
       },
-      "_id": "676d9fecdd09b7278a2b4041",
-      "projectID": "6720f0ba59fb144bc3922874"
+      "_id": "",
+      "projectID": ""
     }
   ]
 }
