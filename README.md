@@ -9,7 +9,7 @@ This repository provides a template to connect your Voiceflow assistant with the
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/voiceflow-openai-integration
+   git clone https://github.com/nehalazhar2/voiceflow-openai-assistants-integration-file-support.git
    ```
 
 2. Replace placeholders in the `index.html` file:
