@@ -1,4 +1,4 @@
-# Voiceflow-OpenAI Integration Template
+# Voiceflow-OpenAI Integration Template with File Support
 
 ## Overview
 This repository provides a template to connect your Voiceflow assistant with the OpenAI API. It also enables users to upload images and files during conversations, expanding the functionality of your Voiceflow assistant.
