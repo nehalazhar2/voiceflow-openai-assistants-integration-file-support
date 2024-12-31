@@ -16,12 +16,15 @@ This repository provides a template to connect your Voiceflow assistant with the
    - Open the `index.html` file in a text editor.
    - Replace `your-project-id-here` with your actual Voiceflow project ID.
 
-3. Update your Voiceflow project:
+3. Include the `FileUpload.js` file:
+   - Ensure the `FileUpload.js` file is included when deploying your Voiceflow agent.
+
+4. Update your Voiceflow project:
    - Navigate to your Voiceflow project.
    - Locate the **Set OpenAI Credentials** block.
    - Add your OpenAI API key and assistant ID to the respective fields.
 
-4. Deploy your Voiceflow assistant.
+5. Deploy your Voiceflow assistant.
 
 ---
 
